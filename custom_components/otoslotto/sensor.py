@@ -94,7 +94,7 @@ class OtosLottoAPI:
                 "lottery_date": latest_result["date"],
                 "no_of_5s": int(latest_result["no_of_5s"]),
                 "winnings_of_5s": latest_result["winnings_of_5s"],
-                "no_of_4s": int(latest_result["no_of_3s"]),
+                "no_of_4s": int(latest_result["no_of_4s"]),
                 "winnings_of_4s": latest_result["winnings_of_4s"],
                 "no_of_3s": int(latest_result["no_of_3s"]),
                 "winnings_of_3s": latest_result["winnings_of_3s"],

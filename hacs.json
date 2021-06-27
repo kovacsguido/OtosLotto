@@ -1,6 +1,6 @@
 {
   "name": "[HUN] Ötös Lottó Sensor",
   "country": "HUN",
-  "homeassistant": "2020.12.1",
+  "homeassistant": "2021.6.6",
   "render_readme": true
 }
