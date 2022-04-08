@@ -4,10 +4,10 @@
   "config_flow": true,
   "documentation": "https://github.com/rjulius23/OtosLotto/blob/master/README.md",
   "requirements": [
-    "pandas==1.2.0"
+    "pandas==1.4.2"
   ],
   "dependencies": [],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "codeowners": [
     "@rjulius23"
   ]
